@@ -10,7 +10,6 @@
     <p>Nombre: ${productName}</p>
     <p>Precio: ${productPrice}</p>
     <p>Marca: ${productBrand}</p>
-    <a href="index.jsp">Volver a la página principal</a>
-    <!-- <a href="${pageContext.request.contextPath}/index.jsp">Enlace</a> -->
+    <a href="${pageContext.request.contextPath}/index.jsp">Volver a la página principal</a>
 </body>
 </html>

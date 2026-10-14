@@ -1,4 +1,4 @@
-package org.cuatrovientos.web; 
+package org.cuatrovientos; 
   
 import java.io.IOException; 
 import java.util.Arrays; 

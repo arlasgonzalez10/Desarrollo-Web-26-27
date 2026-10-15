@@ -1,0 +1,3 @@
+org\cuatrovientos\product\Product.class
+org\cuatrovientos\ProductStatusServlet.class
+org\cuatrovientos\ProductCatalogServlet.class

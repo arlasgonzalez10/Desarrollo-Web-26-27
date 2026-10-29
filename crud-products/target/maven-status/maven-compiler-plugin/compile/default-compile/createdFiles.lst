@@ -1,0 +1,5 @@
+org\cuatrovientos\controller\ProductServlet.class
+org\cuatrovientos\persistence\ConnectionFactory.class
+org\cuatrovientos\persistence\ProductRepository.class
+org\cuatrovientos\model\Product.class
+org\cuatrovientos\persistence\DatabaseInitializer.class
